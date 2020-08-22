@@ -1,0 +1,15 @@
+/* @import '/css/normalize.css'; */
+
+.container {
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+}
+.js-palette {
+  padding-top: 50%;
+  border: 1px solid;
+  min-width: 50%;
+  min-height: 50%;
+  border-radius: 50%;
+  background-color: #328f79;
+}
